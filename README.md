@@ -18,8 +18,8 @@ Android platform, closed source software, and client requirements."_
 
 The project team had a few internal goals for the mobile application:
 
-- __Simple (KISS):__ The application would target a wide age-range, thus, a simple user experience was a key indicator of success
-- __Visually appealing:__ The previous project team's application failed (in our opinion) at creating
+- __Simple UX design (KISS):__ The application would target a wide age-range, thus, a simple user experience was a key indicator of success
+- __Visually appealing UI:__ The previous project team's application failed (in our opinion) at creating
 a UI design that was visually appealing. We wanted to remedy this.
 - __Doing things the "proper" way:__ Proper code is subjective. We defined "proper" code to
 mean closely following Android's own guidelines and documentation. Cobbled together hacks were a no-go.
@@ -106,6 +106,14 @@ collaborate effectively as a team.
 ### User Select Page and User Creation Page
 
 # Results (Hardware)
+
+<img src="./img/armour_vinyl_removed.jpg" alt="Armour With Vinyl Removed">
+<img src="./img/armour_inner_foam.jpg" alt="Armour's Inner Foam Layer">
+<img src="./img/armour_traces.jpg" alt="Outlines Traced in Sharpie">
+<img src="./img/armour_post_routing.jpg" alt="Armour Post-Routing">
+<img src="./img/armour_plates.jpg" alt="3D-Printed Plates">
+<img src="./img/armour_sanded.jpg" alt="Fiberglass Shielding After Sanding Process">
+<img src="./img/armour_sensors.jpg" alt="Armour Post-Wiring">
 
 # Conclusion
 
