@@ -30,7 +30,7 @@ readable and future-proof as possible!
 
 - __Choosing the right sensor:__ We looked into everything, from sonar to infrared to hydraulic pressure, etc.
 The most cost-effective option were Force Sensing Resistors (FSR). FSRs are flexible, light-weight,
-and have substantial tollerances to pressure.
+and have commendable tollerances to pressure.
 - __Budget__: We were given a budget of $300 CAD. Tekscan's FlexiForce A502 FSRs cost (at the time) 
 ~$190 for a pack of 4. Fortunately, we were able to save cost since the previous project team had 
 purchased 8 of the same sensor, which we were able to reuse.
@@ -112,6 +112,13 @@ collaborate effectively as a team.
 
 # Results (Hardware)
 
+<img src="./img/armour.jpg" alt="Unmodified Body Armour Equipment">
+
+### Unmodified Body Armour Equipment
+
+<br />
+<br />
+
 <img src="./img/armour_vinyl_removed.jpg" alt="Armour With Vinyl Removed">
 
 ### Armour With Surface Vinyl Removed
@@ -135,7 +142,7 @@ collaborate effectively as a team.
 
 <img src="./img/armour_post_routing.jpg" alt="Armour Post-Routing">
 
-### Recessions Routed via Dremel Tool
+### Recessions Routed Using a Dremel Tool
 
 <br />
 <br />
