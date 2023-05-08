@@ -1,5 +1,10 @@
 # Purpose Statement
 
+_A smart phone application and martial arts body armour equipment are designed, programmed, 
+assembled, and tested on the basis of cost, sustainability, durability, and manufacturability 
+for the purpose of enhancing martial artist’s training regiments within the boundaries of the 
+Android platform, closed source software, and client requirements._
+
 # Client Requirements
 
 # Project Goals
@@ -15,9 +20,7 @@
     <img src="./img/homepage_dark_2.jpg" width="24%" alt="Home Page (Dark Theme)">
 </div>
 
-<div style="text-align: center;">
-    <h3>Dashboard/Home Page</h3>
-</div>
+### Dashboard/Home Page
 
 <br />
 <br />
@@ -29,9 +32,7 @@
     <img src="./img/modespage_dark_2.jpg" width="24%" alt="Modes Page (Dark Theme)">
 </div>
 
-<div style="text-align: center;">
-    <h3>Modes Selection Page and Training Mode</h3>
-</div>
+### Modes Selection Page and Training Mode
 
 <br />
 <br />
@@ -43,9 +44,7 @@
     <img src="./img/speedmode_dark_2.jpg" width="24%" alt="Strength Mode (Dark Theme)">
 </div>
 
-<div style="text-align: center;">
-    <h3>Speed Mode and Strength Mode</h3>
-</div>
+### Speed Mode and Strength Mode
 
 <br />
 <br />
@@ -57,9 +56,7 @@
     <img src="./img/settings_dark_2.jpg" width="24%" alt="Bluetooth Settings (Dark Theme)">
 </div>
 
-<div style="text-align: center;">
-    <h3>Settings Page and Bluetooth Connection Page</h3>
-</div>
+### Settings Page and Bluetooth Connection Page
 
 <br />
 <br />
@@ -71,8 +68,6 @@
     <img src="./img/userspage_dark_2.jpg" width="24%" alt="User Creation Page (Dark Theme)">
 </div>
 
-<div style="text-align: center;">
-    <h3>User Select Page and User Creation Page</h3>
-</div>
+### User Select Page and User Creation Page
 
 # Conclusion
