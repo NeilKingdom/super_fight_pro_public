@@ -9,7 +9,7 @@
 # Results
 
 <div>
-    <img src="../img/homepage_light_1.jpg" alt="Home Page (Light Theme)">
+    <img src="./img/homepage_light_1.jpg" alt="Home Page (Light Theme)">
 </div>
 
 # Conclusion
