@@ -34,6 +34,11 @@ and have substantial tollerances to pressure.
 - __Budget__: We were given a budget of $300 CAD. Tekscan's FlexiForce A502 FSRs cost (at the time) 
 ~$190 for a pack of 4. Fortunately, we were able to save cost since the previous project team had 
 purchased 8 of the same sensor, which we were able to reuse.
+- __Covering Surface Area__: The A502 FSRs have a dimension of 2x2 inches. This was not nearly enough to cover
+the surface of the inner shielding, meaning that we needed to improvise. After several revisions, we modeled and
+3D printed thin plates out of PETG on an FDM printer. These helped to increase the surface area of each sensor
+by transfering the kinetic energy towards the center protrusion which is what would come into contact with the 
+FSR.
 - __Learning new technologies:__ Amongst the 3 developers (including myself) on the project team, 
 none had ever used Kotlin, or developed for Android. Here are just a few of the things that we had
 to learn as we developed the application: 
@@ -108,12 +113,50 @@ collaborate effectively as a team.
 # Results (Hardware)
 
 <img src="./img/armour_vinyl_removed.jpg" alt="Armour With Vinyl Removed">
+
+### Armour With Surface Vinyl Removed
+
+<br />
+<br />
+
 <img src="./img/armour_inner_foam.jpg" alt="Armour's Inner Foam Layer">
+
+### The Separated Layer of Dense Protective Foam
+
+<br />
+<br />
+
 <img src="./img/armour_traces.jpg" alt="Outlines Traced in Sharpie">
+
+### Measured Dimensions of the 3D-Printed Plates
+
+<br />
+<br />
+
 <img src="./img/armour_post_routing.jpg" alt="Armour Post-Routing">
+
+### Recessions Routed via Dremel Tool
+
+<br />
+<br />
+
 <img src="./img/armour_plates.jpg" alt="3D-Printed Plates">
+
+### 3D-Printed Plates Glued in Place Using Spray-On Adhesive
+
+<br />
+<br />
+
 <img src="./img/armour_sanded.jpg" alt="Fiberglass Shielding After Sanding Process">
+
+### Inner Shielding Post-Sanding
+
+<br />
+<br />
+
 <img src="./img/armour_sensors.jpg" alt="Armour Post-Wiring">
+
+### Ribbon Cables Soldered to FSRs (Inserted Into Pockets Fastened From Duct Tape)
 
 # Conclusion
 
