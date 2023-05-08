@@ -8,7 +8,7 @@
 
 # Results
 
-<div style="display: flex; flex-flow: row nowrap;">
+<div style="display: flex; flex-flow: row nowrap; align-items: center;">
     <img src="./img/homepage_light_1.jpg" width="23%" alt="Home Page (Light Theme)">
     <img src="./img/homepage_light_2.jpg" width="23%" alt="Home Page (Light Theme)">
     <img src="./img/homepage_dark_1.jpg" width="23%" alt="Home Page (Dark Theme)">
