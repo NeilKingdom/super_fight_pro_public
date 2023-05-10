@@ -18,7 +18,7 @@ Android platform, closed source software, and client requirements."_
 
 The project team had a few internal goals for the mobile application:
 
-- __Simple UX design (KISS):__ The application would target a wide age-range, thus, a simple user experience was a key indicator of success
+- __Simple UX design (KISS):__ The application would target a wide age-range, thus, a simple user experience was a key indicator of success.
 - __Visually appealing UI:__ The previous project team's application failed (in our opinion) at creating
 a UI design that was visually appealing. We wanted to remedy this.
 - __Doing things the "proper" way:__ Proper code is subjective. We defined "proper" code to
